@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on VORP C#RP
 - 💬 Ask me about Fivem or RedM
+- 🤠 Ex-Founder of Vorp C#RE
 
 ## My Social Networks
 <p align="center">
