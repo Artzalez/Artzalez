@@ -5,7 +5,7 @@
 
 ## My Social Networks
 <p align="center">
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<a href="https://twitter.com/Artzalez" ><img src="https://img.shields.io/twitter/follow/Artzalez.svg?style=social" /> </a>
 </p>
 ## knowledge Codes
 
