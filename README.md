@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+- 💖 Founder of Vorp C#RP
 - 🔭 I’m currently working on VORP C#RP
 - 💬 Ask me about Fivem or RedM
-- 🤠 Ex-Founder of Vorp C#RE
+- 🤠 Ex-Founder of Vorp C#RE REDM
 
 ## My Social Networks
 <p align="center">
