@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💖 Owner of HoodStarCM
+- 💖 Ex-Owner of HoodStarCM
 - 🔭 I’m currently working on FL
 - 💬 Ask me about Fivem or RedM
 - 🤠 Ex-Founder of Vorp C#RE REDM
